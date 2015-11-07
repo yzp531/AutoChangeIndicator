@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AutoChangeIndicator">
+        <!--指示器高度-->
+        <attr name="indicator_height" format="dimension" />
+        <!--指示器颜色-->
+        <attr name="indicator_color" format="color" />
+        <!--标题左右边距(dp)-->
+        <attr name="title_margin" format="dimension" />
+        <!--标题字体大小(sp)-->
+        <attr name="title_textSize" format="dimension" />
+        <!--标题字体颜色-->
+        <attr name="title_textColor" format="color" />
+        <!--标题高亮字体颜色-->
+        <attr name="title_textHColor" format="color" />
+        <!--标题view背景-->
+        <attr name="title_backColor" format="color" />
+        <!--标题padding-->
+        <attr name="title_padding" format="dimension" />
+    </declare-styleable>
+
+</resources>
